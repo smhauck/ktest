@@ -2,7 +2,7 @@
 service: ktest
 
 # Name of the container image.
-image: your-user/ktest
+image: smhauck/ktest
 
 # Deploy to these servers.
 servers:
